@@ -138,7 +138,7 @@
     {
       "question": "what react library is used to move accross pages",
       "options": ["useReducer", "react-router", "react-context", "react-icon"],
-      "correctOption": 3,
+      "correctOption": 1,
       "points": 20
     }
   ]
